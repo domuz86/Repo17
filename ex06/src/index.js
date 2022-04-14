@@ -3,8 +3,7 @@ function remoeFirstTwo(list){
     "use strict";
     //Only change code belowe this line
  let array2 = [];    
- const  [a,b, ...arr] = list; // Change this line
- array2.push(arr);        
+ const  [a,b, ...arr] = list; // Change this line 
     //Only change code belowe this line
     return array2;
 }
